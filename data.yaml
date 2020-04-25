@@ -1,0 +1,54 @@
+title: Diego Kiedanski
+header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
+phone: (+33) 07 69 99 79 94
+residence: Paris, France
+from: Montevideo, Uruguay
+email: dkiedanski@gmail.com
+github: "https://github.com/gus0k"
+website: "https://gus0k.github.io/"
+scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
+summary: |
+    I am an independent computer engineer who thrives working in international environments, with a vast experience in mentoring. I am passionate about solving real engineering problems through mathematical modeling and its implementation. Knowledgeable in extracting valuable information from data, using mostly Python's ecosystem. I have successfully developed tailored solutions to complex problems for industrial clients and partners.
+education:
+- name: PhD in Informatics, Data and AI
+  school: Télécom Paris - IP Paris
+  date: "2019 - Present"
+  description: |
+      ```
+      * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
+
+      * Advisor: Prof. Daniel Kofman
+
+      ```
+- name: Computer Engineer
+  school: Universidad de la República, Uruguay
+  date: "2013 - 2017"
+  description: |
+      Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
+experience:
+- name: PhD candidate
+  company: Télécom Paris - IP Paris
+  date: "2019 - Present"
+  description: |
+      Using tools from auction theory, optimization and game theory, I have shown that cooperative schemes are better suited to implement grid flexibility than their competitive counterpart.
+      Moreover, I developed a framework for cooperative investments in energy storage that can increase the capacity of deployed energy storage by 200% with respect to scenarios without cooperation.
+      I adapted my research to respond to the needs of our industrial partner, ENEDIS, who needs to position itself in the context of the new Smart Grid architectures.
+
+- name: R&D Engineer
+  company: Télécom Paris - IP Paris
+  date: "2018"
+  description: |
+      My research focused on Local Energy Markets in the context of the energy transition. I extended existing models using auction theory and reinforcement learning.
+- name: Teaching Assistant
+  company: Universidad de la República, Uruguay
+  date: "2015 - 2017"
+  description: |
+      I was in charge of lecturing, planning and designing exams as well as grading them.I designed and deployed automated testing procedures that are still in use today in courses with more than one thousand students.
+skills:
+- name: Tech Tools
+  description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git
+- name: Languages
+  description: English (full working proficiency), Spanish (native), French (basic working proficiency)
+- name: Other
+  description: Game Theory, Optimization, Deep Learning, Graph theory, Internet Measurements
+
