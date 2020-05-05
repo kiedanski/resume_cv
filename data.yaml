@@ -12,7 +12,7 @@ summary: |
 education:
 - name: PhD in Informatics, Data and AI
   school: Télécom Paris - IP Paris
-  date: "2019 - Present"
+  date: "2019 - End of 2020"
   description: |
       ```
       * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
@@ -28,7 +28,7 @@ education:
 experience:
 - name: PhD candidate
   company: Télécom Paris - IP Paris
-  date: "2019 - Present"
+  date: "2019 - End of 2020"
   description: |
       Using tools from auction theory, optimization and game theory, I have shown that cooperative schemes are better suited to implement grid flexibility than their competitive counterpart.
       Moreover, I developed a framework for cooperative investments in energy storage that can increase the capacity of deployed energy storage by 200% with respect to scenarios without cooperation.

@@ -1,6 +1,6 @@
 ---
 education:
-- date: '2019 - Present'
+- date: '2019 - End of 2020'
   description: |
         * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
 
@@ -17,7 +17,7 @@ education:
 email: 'dkiedanski\@gmail.com'
 experience:
 - company: 'Télécom Paris - IP Paris'
-  date: '2019 - Present'
+  date: '2019 - End of 2020'
   description: |
     Using tools from auction theory, optimization and game theory, I
     have shown that cooperative schemes are better suited to implement
@@ -114,7 +114,7 @@ industrial clients and partners.
 
 ## Education
 
-**2019 - Present**
+**2019 - End of 2020**
 :    <div class="left"> PhD in Informatics, Data and
 AI </div> <div class="right"> **Télécom Paris - IP Paris** </div> <br> 
     <p> * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
@@ -137,7 +137,7 @@ lead.
 
 ## Profesional Experience
 
-**2019 - Present**
+**2019 - End of 2020**
 :    <div class="left"> PhD
 candidate </div> <div class="right"> **Télécom Paris - IP
 Paris** </div> <br> 
