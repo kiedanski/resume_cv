@@ -1,14 +1,14 @@
 title: Diego Kiedanski
 header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
-phone: (+33) 07 69 99 79 94
-residence: Paris, France
+phone: (+32) 456 26 73 69
+residence: Brussels, Belgium
 from: Montevideo, Uruguay
-email: dkiedanski@gmail.com
+email: gusok@protonmail.com
 github: "https://github.com/gus0k"
 website: "https://gus0k.github.io/"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 summary: |
-    I am an independent computer engineer who thrives working in international environments, with a vast experience in mentoring. I am passionate about solving real engineering problems through mathematical modeling and its implementation. Knowledgeable in extracting valuable information from data, using mostly Python's ecosystem. I have successfully developed tailored solutions to complex problems for industrial clients and partners.
+    I am an independent computer engineer who thrives working in international environments. I have a vast experience in the education sector having taught mathematics and computer science at high school and university level. My responsibilities in these positions included not only teaching and grading but also preparing new material for students or even creating a curricula from scratch for a new course. 
 education:
 - name: PhD in Informatics, Data and AI
   school: Télécom Paris - IP Paris
@@ -26,6 +26,11 @@ education:
   description: |
       Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
 experience:
+- name: Researcher
+  company: Centrica Business Solutions Belgium
+  date: "August 2020 - "
+  description: |
+          I develop algorithms and models to deploy local flexibility services, mostly enabled by smart batteries and electric vehicles.
 - name: PhD candidate
   company: Télécom Paris - IP Paris
   date: "2019 - End of 2020"
@@ -44,9 +49,14 @@ experience:
   date: "2015 - 2017"
   description: |
       I was in charge of lecturing, planning and designing exams as well as grading them.I designed and deployed automated testing procedures that are still in use today in courses with more than one thousand students.
+- name: Mathematics High School Teacher
+  company: PRE/U and Colegio Nacional José Pedro Varela 
+  date: "2014 - 2015"
+  description: |
+        I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought Pre-calculus level. The course is taken two years before university.
 skills:
 - name: Tech Tools
-  description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git
+  description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, Moodle
 - name: Languages
   description: English (full working proficiency), Spanish (native), French (basic working proficiency)
 - name: Other

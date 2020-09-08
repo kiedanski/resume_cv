@@ -2,7 +2,7 @@
 all: pdf
 
 pdf: build/out.html
-	chromium --headless --disable-gpu --print-to-pdf build/out.html
+	chromium --headless --disable-gpu --print-to-pdf-no-header --print-to-pdf build/out.html
 	mv output.pdf build/
 
 clean:

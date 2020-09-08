@@ -14,8 +14,14 @@ education:
     lead.
   name: Computer Engineer
   school: 'Universidad de la República, Uruguay'
-email: 'dkiedanski\@gmail.com'
+email: 'gusok\@protonmail.com'
 experience:
+- company: Centrica Business Solutions Belgium
+  date: 'August 2020 -'
+  description: |
+    I develop algorithms and models to deploy local flexibility
+    services, mostly enabled by smart batteries and electric vehicles.
+  name: Researcher
 - company: 'Télécom Paris - IP Paris'
   date: '2019 - End of 2020'
   description: |
@@ -44,15 +50,23 @@ experience:
     that are still in use today in courses with more than one thousand
     students.
   name: Teaching Assistant
+- company: PRE/U and Colegio Nacional José Pedro Varela
+  date: '2014 - 2015'
+  description: |
+    I was in charge of my own groups and tasked with teaching, planning,
+    preparing tests and interacting with parents among other
+    responsibilities. I thought Pre-calculus level. The course is taken
+    two years before university.
+  name: Mathematics High School Teacher
 from: 'Montevideo, Uruguay'
 github: 'https://github.com/gus0k'
 header-includes: '`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`{=html}'
-phone: (+33) 07 69 99 79 94
-residence: 'Paris, France'
+phone: (+32) 456 26 73 69
+residence: 'Brussels, Belgium'
 scholar: 'https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en'
 skills:
 - description: 'Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX,
-    Latex, SQL, Git'
+    Latex, SQL, Git, Moodle'
   name: Tech Tools
 - description: 'English (full working proficiency), Spanish (native),
     French (basic working proficiency)'
@@ -62,12 +76,11 @@ skills:
   name: Other
 summary: |
   I am an independent computer engineer who thrives working in
-  international environments, with a vast experience in mentoring. I am
-  passionate about solving real engineering problems through
-  mathematical modeling and its implementation. Knowledgeable in
-  extracting valuable information from data, using mostly Python's
-  ecosystem. I have successfully developed tailored solutions to complex
-  problems for industrial clients and partners.
+  international environments. I have a vast experience in the education
+  sector having taught mathematics and computer science at high school
+  and university level. My responsibilities in these positions included
+  not only teaching and grading but also preparing new material for
+  students or even creating a curricula from scratch for a new course.
 title: Diego Kiedanski
 website: 'https://gus0k.github.io/'
 ---
@@ -81,10 +94,10 @@ website: 'https://gus0k.github.io/'
 
 <div class="column">
 <ul class="fa-ul">
-<li> <span class="fa-li"> <i class="fa fa-phone"></i></span> (+33) 07 69
-99 79 94</li>
-<li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> Paris,
-France</li>
+<li> <span class="fa-li"> <i class="fa fa-phone"></i></span> (+32) 456
+26 73 69</li>
+<li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> Brussels,
+Belgium</li>
 <li> <span class="fa-li"> <i class="fa fa-home"></i></span> Montevideo,
 Uruguay</li>
 </ul>
@@ -93,7 +106,7 @@ Uruguay</li>
 
 <div class="column, right">
 <ul class="fa-ul">
-<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> dkiedanski\@gmail.com</li>
+<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> gusok\@protonmail.com</li>
 <li> <span class="fa-li"> <i class="fa fa-github"></i></span> <a href="https://github.com/gus0k"> https://github.com/gus0k </a> </li>
 <li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="https://gus0k.github.io/"> https://gus0k.github.io/ </a></li>
 </ul>
@@ -105,12 +118,11 @@ Uruguay</li>
 ## Summary
 
 I am an independent computer engineer who thrives working in
-international environments, with a vast experience in mentoring. I am
-passionate about solving real engineering problems through mathematical
-modeling and its implementation. Knowledgeable in extracting valuable
-information from data, using mostly Python's ecosystem. I have
-successfully developed tailored solutions to complex problems for
-industrial clients and partners.
+international environments. I have a vast experience in the education
+sector having taught mathematics and computer science at high school and
+university level. My responsibilities in these positions included not
+only teaching and grading but also preparing new material for students
+or even creating a curricula from scratch for a new course.
 
 ## Education
 
@@ -136,6 +148,14 @@ lead.
 
 
 ## Profesional Experience
+
+**August 2020 -**
+:    <div class="left"> Researcher </div> <div class="right"> **Centrica
+Business Solutions Belgium** </div> <br> 
+    <p> I develop algorithms and models to deploy local flexibility
+services, mostly enabled by smart batteries and electric vehicles.
+
+ </p>
 
 **2019 - End of 2020**
 :    <div class="left"> PhD
@@ -173,12 +193,23 @@ thousand students.
 
  </p>
 
+**2014 - 2015**
+:    <div class="left"> Mathematics High School
+Teacher </div> <div class="right"> **PRE/U and Colegio Nacional José
+Pedro Varela** </div> <br> 
+    <p> I was in charge of my own groups and tasked with teaching,
+planning, preparing tests and interacting with parents among other
+responsibilities. I thought Pre-calculus level. The course is taken two
+years before university.
+
+ </p>
+
 
 ## Skills
 
 **Tech Tools**
 :   <p> Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex,
-SQL, Git </p>
+SQL, Git, Moodle </p>
 
 
 **Languages**
