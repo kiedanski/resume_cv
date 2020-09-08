@@ -55,8 +55,7 @@ experience:
   description: |
     I was in charge of my own groups and tasked with teaching, planning,
     preparing tests and interacting with parents among other
-    responsibilities. I thought Pre-calculus level. The course is taken
-    two years before university.
+    responsibilities. I thought Pre-calculus level.
   name: Mathematics High School Teacher
 from: 'Montevideo, Uruguay'
 github: 'https://github.com/gus0k'
@@ -199,8 +198,7 @@ Teacher </div> <div class="right"> **PRE/U and Colegio Nacional José
 Pedro Varela** </div> <br> 
     <p> I was in charge of my own groups and tasked with teaching,
 planning, preparing tests and interacting with parents among other
-responsibilities. I thought Pre-calculus level. The course is taken two
-years before university.
+responsibilities. I thought Pre-calculus level.
 
  </p>
 
