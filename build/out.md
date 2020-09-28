@@ -71,17 +71,16 @@ skills:
     French (basic working proficiency)'
   name: Languages
 - description: 'Game Theory, Optimization, Deep Learning, Graph theory,
-    Internet Measurements'
+    Machine Learning, Internet Measurements'
   name: Other
 summary: |
-  I am an independent computer engineer who thrives working in
-  international environments. I have a vast experience in the education
+  I am an independent computer engineer who thrives on working in
+  international environments. I have vast experience in the education
   sector having taught mathematics and computer science at high school
   and university level. My responsibilities in these positions included
   not only teaching and grading but also preparing new material for
-  students or even creating a curricula from scratch for a new course.
+  students or even creating a curriculum from scratch for a new course.
 title: Diego Kiedanski
-website: 'https://gus0k.github.io/'
 ---
 
 `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`{=html}
@@ -107,7 +106,7 @@ Uruguay</li>
 <ul class="fa-ul">
 <li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> gusok\@protonmail.com</li>
 <li> <span class="fa-li"> <i class="fa fa-github"></i></span> <a href="https://github.com/gus0k"> https://github.com/gus0k </a> </li>
-<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="https://gus0k.github.io/"> https://gus0k.github.io/ </a></li>
+<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="">  </a></li>
 </ul>
 </div>
 
@@ -116,12 +115,12 @@ Uruguay</li>
 
 ## Summary
 
-I am an independent computer engineer who thrives working in
-international environments. I have a vast experience in the education
+I am an independent computer engineer who thrives on working in
+international environments. I have vast experience in the education
 sector having taught mathematics and computer science at high school and
 university level. My responsibilities in these positions included not
 only teaching and grading but also preparing new material for students
-or even creating a curricula from scratch for a new course.
+or even creating a curriculum from scratch for a new course.
 
 ## Education
 
@@ -216,5 +215,5 @@ SQL, Git, Moodle </p>
 
 
 **Other**
-:   <p> Game Theory, Optimization, Deep Learning, Graph theory, Internet
-Measurements </p>
+:   <p> Game Theory, Optimization, Deep Learning, Graph theory, Machine
+Learning, Internet Measurements </p>
