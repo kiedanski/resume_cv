@@ -1,29 +1,29 @@
 ---
 education:
-- date: '2019 - End of 2020'
+- date: 2019 - 2020
   description: |
         * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
 
         * Advisor: Prof. Daniel Kofman
-  name: 'PhD in Informatics, Data and AI'
-  school: 'Télécom Paris - IP Paris'
-- date: '2013 - 2017'
+  name: PhD in Informatics, Data and AI
+  school: Télécom Paris - IP Paris
+- date: 2013 - 2017
   description: |
     Extensive coursework in computer science and mathematics. Vast
     experience working in teams with up to ten members, most of which I
     lead.
   name: Computer Engineer
-  school: 'Universidad de la República, Uruguay'
-email: 'gusok\@protonmail.com'
+  school: Universidad de la República, Uruguay
+email: danski\@vera.com.uy
 experience:
 - company: Centrica Business Solutions Belgium
-  date: 'August 2020 -'
+  date: "August 2020 -"
   description: |
     I develop algorithms and models to deploy local flexibility
     services, mostly enabled by smart batteries and electric vehicles.
-  name: Researcher
-- company: 'Télécom Paris - IP Paris'
-  date: '2019 - End of 2020'
+  name: Optimization Engineer
+- company: Télécom Paris - IP Paris
+  date: 2019 - 2020
   description: |
     Using tools from auction theory, optimization and game theory, I
     have shown that cooperative schemes are better suited to implement
@@ -35,15 +35,15 @@ experience:
     to position itself in the context of the new Smart Grid
     architectures.
   name: PhD candidate
-- company: 'Télécom Paris - IP Paris'
+- company: Télécom Paris - IP Paris
   date: 2018
   description: |
     My research focused on Local Energy Markets in the context of the
     energy transition. I extended existing models using auction theory
     and reinforcement learning.
-  name: 'R&D Engineer'
-- company: 'Universidad de la República, Uruguay'
-  date: '2015 - 2017'
+  name: R&D Engineer
+- company: Universidad de la República, Uruguay
+  date: 2015 - 2017
   description: |
     I was in charge of lecturing, planning and designing exams as well
     as grading them.I designed and deployed automated testing procedures
@@ -51,35 +51,36 @@ experience:
     students.
   name: Teaching Assistant
 - company: PRE/U and Colegio Nacional José Pedro Varela
-  date: '2014 - 2015'
+  date: 2014 - 2015
   description: |
     I was in charge of my own groups and tasked with teaching, planning,
     preparing tests and interacting with parents among other
     responsibilities. I thought Pre-calculus level.
   name: Mathematics High School Teacher
-from: 'Montevideo, Uruguay'
-github: 'https://github.com/gus0k'
-header-includes: '`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`{=html}'
+from: Montevideo, Uruguay
+github: "https://github.com/gus0k"
+header-includes: "`<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">`{=html}"
 phone: (+32) 456 26 73 69
-residence: 'Brussels, Belgium'
-scholar: 'https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en'
+residence: Brussels, Belgium
+scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 skills:
-- description: 'Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX,
-    Latex, SQL, Git, Moodle'
+- description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX,
+    Latex, SQL, Git, Moodle
   name: Tech Tools
-- description: 'English (full working proficiency), Spanish (native),
-    French (basic working proficiency)'
+- description: English (full working proficiency), Spanish (native),
+    French (basic working proficiency)
   name: Languages
-- description: 'Game Theory, Optimization, Deep Learning, Graph theory,
-    Machine Learning, Internet Measurements'
+- description: Game Theory, Optimization, Deep Learning, Graph theory,
+    Machine Learning, Internet Measurements
   name: Other
 summary: |
   I am an independent computer engineer who thrives on working in
-  international environments. I have vast experience in the education
-  sector having taught mathematics and computer science at high school
-  and university level. My responsibilities in these positions included
-  not only teaching and grading but also preparing new material for
-  students or even creating a curriculum from scratch for a new course.
+  international environments. As someone passionate about the
+  intersection of data, mathematics, and computer science I am always
+  looking for challenges in which I can put my talents into practice.
+  Furthermore, I have vast experience in the education sector having
+  taught mathematics and computer science at high school and university
+  levels.
 title: Diego Kiedanski
 ---
 
@@ -104,7 +105,7 @@ Uruguay</li>
 
 <div class="column, right">
 <ul class="fa-ul">
-<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> gusok\@protonmail.com</li>
+<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> danski\@vera.com.uy</li>
 <li> <span class="fa-li"> <i class="fa fa-github"></i></span> <a href="https://github.com/gus0k"> https://github.com/gus0k </a> </li>
 <li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="">  </a></li>
 </ul>
@@ -116,15 +117,15 @@ Uruguay</li>
 ## Summary
 
 I am an independent computer engineer who thrives on working in
-international environments. I have vast experience in the education
-sector having taught mathematics and computer science at high school and
-university level. My responsibilities in these positions included not
-only teaching and grading but also preparing new material for students
-or even creating a curriculum from scratch for a new course.
+international environments. As someone passionate about the intersection
+of data, mathematics, and computer science I am always looking for
+challenges in which I can put my talents into practice. Furthermore, I
+have vast experience in the education sector having taught mathematics
+and computer science at high school and university levels.
 
 ## Education
 
-**2019 - End of 2020**
+**2019 - 2020**
 :    <div class="left"> PhD in Informatics, Data and
 AI </div> <div class="right"> **Télécom Paris - IP Paris** </div> <br> 
     <p> * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
@@ -148,14 +149,15 @@ lead.
 ## Profesional Experience
 
 **August 2020 -**
-:    <div class="left"> Researcher </div> <div class="right"> **Centrica
-Business Solutions Belgium** </div> <br> 
+:    <div class="left"> Optimization
+Engineer </div> <div class="right"> **Centrica Business Solutions
+Belgium** </div> <br> 
     <p> I develop algorithms and models to deploy local flexibility
 services, mostly enabled by smart batteries and electric vehicles.
 
  </p>
 
-**2019 - End of 2020**
+**2019 - 2020**
 :    <div class="left"> PhD
 candidate </div> <div class="right"> **Télécom Paris - IP
 Paris** </div> <br> 

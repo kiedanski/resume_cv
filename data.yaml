@@ -3,15 +3,15 @@ header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax
 phone: (+32) 456 26 73 69
 residence: Brussels, Belgium
 from: Montevideo, Uruguay
-email: gusok@protonmail.com
+email: danski@vera.com.uy  
 github: "https://github.com/gus0k"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 summary: |
-    I am an independent computer engineer who thrives on working in international environments. I have vast experience in the education sector having taught mathematics and computer science at high school and university level. My responsibilities in these positions included not only teaching and grading but also preparing new material for students or even creating a curriculum from scratch for a new course. 
+    I am an independent computer engineer who thrives on working in international environments. As someone passionate about the intersection of data, mathematics, and computer science I am always looking for challenges in which I can put my talents into practice. Furthermore, I have vast experience in the education sector having taught mathematics and computer science at high school and university levels.  
 education:
 - name: PhD in Informatics, Data and AI
   school: Télécom Paris - IP Paris
-  date: "2019 - End of 2020"
+  date: "2019 - 2020"
   description: |
       ```
       * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
@@ -25,14 +25,14 @@ education:
   description: |
       Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
 experience:
-- name: Researcher
+- name: Optimization Engineer 
   company: Centrica Business Solutions Belgium
   date: "August 2020 - "
   description: |
           I develop algorithms and models to deploy local flexibility services, mostly enabled by smart batteries and electric vehicles.
 - name: PhD candidate
   company: Télécom Paris - IP Paris
-  date: "2019 - End of 2020"
+  date: "2019 - 2020"
   description: |
       Using tools from auction theory, optimization and game theory, I have shown that cooperative schemes are better suited to implement grid flexibility than their competitive counterpart.
       Moreover, I developed a framework for cooperative investments in energy storage that can increase the capacity of deployed energy storage by 200% with respect to scenarios without cooperation.
