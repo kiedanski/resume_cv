@@ -2,10 +2,10 @@
 education:
 - date: 2019 - 2020
   description: |
-        * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
+        * Thesis: Mechanisms and architectures to encourage the massive and efficient use of local renewable energy.
 
         * Advisor: Prof. Daniel Kofman
-  name: PhD in Informatics, Data and AI
+  name: PhD in Networks, Information and Communications
   school: Télécom Paris - IP Paris
 - date: 2013 - 2017
   description: |
@@ -14,12 +14,18 @@ education:
     lead.
   name: Computer Engineer
   school: Universidad de la República, Uruguay
-email: danski\@vera.com.uy
+email: dkiedanski\@gmail.com
 experience:
-- company: Centrica Business Solutions Belgium
-  date: "August 2020 -"
+- company: Tryolabs
+  date: "February 2021 -"
   description: |
-    I develop algorithms and models to deploy local flexibility
+    I work as a consultant, aiding clients in their Artificial
+    Intelligence journey.
+  name: Machine Learning Engineer
+- company: Centrica Business Solutions Belgium
+  date: 2020
+  description: |
+    I developed algorithms and models to deploy local flexibility
     services, mostly enabled by smart batteries and electric vehicles.
   name: Optimization Engineer
 - company: Télécom Paris - IP Paris
@@ -60,8 +66,8 @@ experience:
 from: Montevideo, Uruguay
 github: "https://github.com/gus0k"
 header-includes: "`<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">`{=html}"
-phone: (+32) 456 26 73 69
-residence: Brussels, Belgium
+phone: (+598) 99 33 88 33
+residence: Montevideo, Uruguay
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 skills:
 - description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX,
@@ -82,6 +88,7 @@ summary: |
   taught mathematics and computer science at high school and university
   levels.
 title: Diego Kiedanski
+website: "https://danski.xyz/"
 ---
 
 `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`{=html}
@@ -93,10 +100,10 @@ title: Diego Kiedanski
 
 <div class="column">
 <ul class="fa-ul">
-<li> <span class="fa-li"> <i class="fa fa-phone"></i></span> (+32) 456
-26 73 69</li>
-<li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> Brussels,
-Belgium</li>
+<li> <span class="fa-li"> <i class="fa fa-phone"></i></span> (+598) 99
+33 88 33</li>
+<li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> Montevideo,
+Uruguay</li>
 <li> <span class="fa-li"> <i class="fa fa-home"></i></span> Montevideo,
 Uruguay</li>
 </ul>
@@ -105,9 +112,9 @@ Uruguay</li>
 
 <div class="column, right">
 <ul class="fa-ul">
-<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> danski\@vera.com.uy</li>
+<li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> dkiedanski\@gmail.com</li>
 <li> <span class="fa-li"> <i class="fa fa-github"></i></span> <a href="https://github.com/gus0k"> https://github.com/gus0k </a> </li>
-<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="">  </a></li>
+<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="https://danski.xyz/"> https://danski.xyz/ </a></li>
 </ul>
 </div>
 
@@ -126,9 +133,10 @@ and computer science at high school and university levels.
 ## Education
 
 **2019 - 2020**
-:    <div class="left"> PhD in Informatics, Data and
-AI </div> <div class="right"> **Télécom Paris - IP Paris** </div> <br> 
-    <p> * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
+:    <div class="left"> PhD in Networks, Information and
+Communications </div> <div class="right"> **Télécom Paris - IP
+Paris** </div> <br> 
+    <p> * Thesis: Mechanisms and architectures to encourage the massive and efficient use of local renewable energy.
 
     * Advisor: Prof. Daniel Kofman
 
@@ -148,11 +156,19 @@ lead.
 
 ## Profesional Experience
 
-**August 2020 -**
+**February 2021 -**
+:    <div class="left"> Machine Learning
+Engineer </div> <div class="right"> **Tryolabs** </div> <br> 
+    <p> I work as a consultant, aiding clients in their Artificial
+Intelligence journey.
+
+ </p>
+
+**2020**
 :    <div class="left"> Optimization
 Engineer </div> <div class="right"> **Centrica Business Solutions
 Belgium** </div> <br> 
-    <p> I develop algorithms and models to deploy local flexibility
+    <p> I developed algorithms and models to deploy local flexibility
 services, mostly enabled by smart batteries and electric vehicles.
 
  </p>

@@ -1,20 +1,21 @@
 title: Diego Kiedanski
 header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
-phone: (+32) 456 26 73 69
-residence: Brussels, Belgium
+phone: (+598) 99 33 88 33 
+residence: Montevideo, Uruguay 
 from: Montevideo, Uruguay
-email: danski@vera.com.uy  
+email: dkiedanski@gmail.com
 github: "https://github.com/gus0k"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
+website: "https://danski.xyz/"
 summary: |
     I am an independent computer engineer who thrives on working in international environments. As someone passionate about the intersection of data, mathematics, and computer science I am always looking for challenges in which I can put my talents into practice. Furthermore, I have vast experience in the education sector having taught mathematics and computer science at high school and university levels.  
 education:
-- name: PhD in Informatics, Data and AI
+- name: PhD in Networks, Information and Communications 
   school: Télécom Paris - IP Paris
   date: "2019 - 2020"
   description: |
       ```
-      * Thesis: Local Generation, Electric Mobility and Local Energy Markets.
+      * Thesis: Mechanisms and architectures to encourage the massive and efficient use of local renewable energy.
 
       * Advisor: Prof. Daniel Kofman
 
@@ -25,11 +26,16 @@ education:
   description: |
       Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
 experience:
+- name: Machine Learning Engineer
+  company: Tryolabs
+  date: "February 2021 - "
+  description: |
+          I work as a consultant, aiding clients in their Artificial Intelligence journey.
 - name: Optimization Engineer 
   company: Centrica Business Solutions Belgium
-  date: "August 2020 - "
+  date: "2020"
   description: |
-          I develop algorithms and models to deploy local flexibility services, mostly enabled by smart batteries and electric vehicles.
+          I developed algorithms and models to deploy local flexibility services, mostly enabled by smart batteries and electric vehicles.
 - name: PhD candidate
   company: Télécom Paris - IP Paris
   date: "2019 - 2020"
