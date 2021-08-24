@@ -1,0 +1,261 @@
+references:
+- id: kiedanski2018atlas
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Grampı́n
+    given: Eduardo
+  - family: Alvarez-Hamelin
+    given: J Ignacio
+  issued:
+  - year: 2018
+  title: 'The Atlas Vision Of Ipv6 In Latin America: topology And Latency'
+  title-short: The Atlas Vision Of Ipv6 In Latin America
+  container-title: Proceedings of the 10th latin america networking conference
+  page: 40-47
+
+- id: kiedanski2017understanding
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Grampı́n
+    given: Eduardo
+  issued:
+  - year: 2017
+  title: 'understanding Latin America Ipv6 Connectivity: a Preliminary Exploration'
+  title-short: Understanding latin america ipv6 connectivity
+  container-title: 36th International Conference Of The Chilean Computer Science
+    Society (SCCC)
+  publisher: IEEE
+  page: 1-6
+
+- id: kiedanski2019strategy
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kofman
+    given: Daniel
+  - family: Horta
+    given: José
+  - family: Menga
+    given: David
+  issued:
+  - year: 2019
+  title: strategy-proof Local Energy Market With Sequential Stochastic Decision Process
+    For Battery Control
+  container-title: IEEE Power & Energy Society Innovative Smart Grid Technologies
+    Conference (ISGT)
+  publisher: IEEE
+  page: 1-5
+
+- id: kiedanski2019exploiting
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kofman
+    given: Daniel
+  - family: Orda
+    given: Ariel
+  - family: Horta
+    given: José
+  - family: Otero
+    given: Alvaro
+  issued:
+  - year: 2019
+  container-title: IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
+  title: exploiting Flexibility In Irrigation While Maintaining Optimal Crop Productivity
+- id: kiedanski2019effect
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Orda
+    given: Ariel
+  - family: Kofman
+    given: Daniel
+  issued:
+  - year: 2019
+  title: The Effect Of Ramp Constraints On Coalitional Storage Games
+  container-title: Proceedings Of The Tenth Acm International Conference On Future
+    Energy Systems
+  publisher: ACM
+  page: 226-238
+
+- id: hashmi2019optimal
+  type: paper-conference
+  author:
+  - family: Hashmi
+    given: Md Umar
+  - family: Mukhopadhyay
+    given: Arpan
+  - family: Bušić
+    given: Ana
+  - family: Elias
+    given: Jocelyne
+  - family: Kiedanski
+    given: Diego
+  issued:
+  - year: 2019
+  title: Optimal Storage Arbitrage Under Net Metering Using Linear Programming
+  container-title: IEEE International Conference On Communications, Control,
+    And Computing Technologies For Smart Grids 
+  publisher: IEEE
+  page: 1-7
+
+- id: kiedanski2019youtube
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Nogueira
+    given: Mateo
+  - family: Grampı́n
+    given: Eduardo
+  issued:
+  - year: 2019
+  title: 'Youtube Traffic From The Perspective Of A Developing Country: the Case Of
+    Uruguay'
+  title-short: Youtube traffic from the perspective of a developing country
+  container-title: IEEE INFOCOM - Conference On Computer Communications
+    Workshops
+
+- id: kiedanski2020pymarket
+  type: article-journal
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kofman
+    given: Daniel
+  - family: Horta
+    given: José
+  issued:
+  - year: 2020
+  title: PyMarket - A Simple Library For Simulating Markets In Python
+  container-title: The Journal of Open Source Software
+
+
+- id: kiedanski2020design
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kofman
+    given: Daniel
+  - family: Orda
+    given: Ariel
+  issued:
+  - year: 2020
+  title: Design Of A Combinatorial Double Auction For Local Energy Markets
+  container-title: International Conference On Network Games, Control And Optimisation
+
+- id: kiedanski2020benchmarks
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kuntz
+    given: Lauren
+  - family: Kofman.
+    given: Daniel
+  issued:
+  - year: 2020
+  title: 'Benchmarks For Grid Flexibility Prediction: Enabling Progress And Machine
+    Learning Applications.'
+  title-short: Benchmarks for grid flexibility prediction
+  container-title: 'International Conference On Learning Representations Workshop:
+    "Tackling Climate Change With Machine Learning"'
+
+- id: kiedanski2020discrete
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Orda
+    given: Ariel
+  - family: Kofman.
+    given: Daniel
+  issued:
+  - year: 2020
+  title: Discrete And Stochastic Coalitional Storage Games.
+  container-title: Eleventh ACM International Conference On Future Energy Systems
+    (e-ENERGY),
+
+- id: kiedanski2020combflex
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Orda
+    given: Ariel
+  - family: Kofman
+    given: Daniel
+  issued:
+  - year: 2020
+  title: 'Combflex: A linear Combinatorial Auction For Local Energy Markets'
+  title-short: Combflex
+  container-title: IEEE International Conference On Communications, Control,
+    And Computing Technologies For Smart Grids 
+  publisher: IEEE
+  page: 1-7
+
+- id: kiedanski2020misalignments
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Kofman
+    given: Daniel
+  - family: Maillé
+    given: Patrick
+  - family: Horta
+    given: José
+  issued:
+  - year: 2020
+  title: 'Misalignments Of Objectives In Demand Response Programs: A Look At Local
+    Energy Markets'
+  title-short: Misalignments of objectives in demand response programs
+  container-title: IEEE International Conference On Communications, Control,
+    And Computing Technologies For Smart Grids 
+  publisher: IEEE
+  page: 1-7
+
+- id: kiedanski2020efficient
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Bušić
+    given: Ana
+  - family: Kofman
+    given: Daniel
+  - family: Orda
+    given: Ariel
+  issued:
+  - year: 2020
+  title: 'Efficient Distributed Solutions For Sharing Energy Resources At The Local
+    Level: A Cooperative Game Approach'
+  title-short: Efficient distributed solutions for sharing energy resources at the
+    local level
+  container-title: 59th IEEE Conference on Decision and Control (CDC)
+  publisher: IEEE
+  page: 2634-2641
+- id: kiedanski2019sensitivity
+  type: paper-conference
+  author:
+  - family: Kiedanski
+    given: Diego
+  - family: Hashmi
+    given: Umar
+  - family: Bušić
+    given: Ana
+  - family: Kofman
+    given: Daniel
+  issued:
+  - year: 2019
+  container-title: IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
+  title: Sensitivity To Forecast Errors In Energy Storage Arbitrage For Residential
+    Consumers

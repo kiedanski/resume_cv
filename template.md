@@ -74,3 +74,10 @@ $for(skills)$
 :   <p> $it.description$ </p>
 
 $endfor$
+
+## List of Publications
+
+$for(references)$
+* <cite>$references.title$. $for(references.author)$ $it.family$, $it.given$; $endfor$. $references.container-title/chomp$. $for(references.issued)$ $it.year$$endfor$.</cite>
+$endfor$
+
