@@ -26,11 +26,11 @@ education:
   description: |
       Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
 experience:
-- name: Machine Learning Engineer
+- name: Lead Machine Learning Engineer
   company: Tryolabs
-  date: "February 2021 - "
+  date: "2021 - "
   description: |
-          I work as a consultant, aiding clients in their Artificial Intelligence journey.
+    My position involves working with clients in their AI journey. This involves the initial understanding of business requirements, to the mapping of such requirements into concrete AI projects as well as the development and later deployment of them. I worked in projects across many fields, from transportation to retail and insurance. As part my role, I have had partnerships with consulting companies such as Bain and co.
 - name: Optimization Engineer 
   company: Centrica Business Solutions Belgium
   date: "2020"
@@ -58,7 +58,7 @@ experience:
   company: PRE/U and Colegio Nacional José Pedro Varela 
   date: "2014 - 2015"
   description: |
-        I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought Pre-calculus level. 
+        I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level. 
 skills:
 - name: Tech Tools
   description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, Moodle
