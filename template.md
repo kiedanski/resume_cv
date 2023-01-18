@@ -26,7 +26,9 @@ $endfor$
 
 <div class="column">
 <ul class="fa-ul">
+$if(show_phone)$
 <li> <span class="fa-li"> <i class="fa fa-phone"></i></span> $phone$</li>
+$endif$
 <li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> $residence$</li>
 <li> <span class="fa-li"> <i class="fa fa-home"></i></span> $from$</li>
 </ul>
@@ -48,21 +50,21 @@ $endfor$
 
 $summary$
 
+## Profesional Experience
+
+$for(experience)$
+$if(it.show)$
+**$it.date$**
+:    <div class="left"> $it.name$ </div> <div class="right"> **$it.company$** </div> <br> 
+    <p> $it.description$ </p>
+$endif$
+$endfor$
+
 ## Education
 
 $for(education)$
 **$it.date$**
 :    <div class="left"> $it.name$ </div> <div class="right"> **$it.school$** </div> <br> 
-    <p> $it.description$ </p>
-
-$endfor$
-
-
-## Profesional Experience
-
-$for(experience)$
-**$it.date$**
-:    <div class="left"> $it.name$ </div> <div class="right"> **$it.company$** </div> <br> 
     <p> $it.description$ </p>
 
 $endfor$
@@ -75,9 +77,14 @@ $for(skills)$
 
 $endfor$
 
-## List of Publications
 
+
+$if(show_references)$
+
+## List of Publications
 $for(references)$
 * <cite>$references.title$. $for(references.author)$ $it.family$, $it.given$; $endfor$. $references.container-title/chomp$. $for(references.issued)$ $it.year$$endfor$.</cite>
 $endfor$
+
+$endif$
 

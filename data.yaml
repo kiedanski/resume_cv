@@ -1,69 +1,96 @@
 title: Diego Kiedanski
 header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
-phone: (+598) 99 33 88 33 
-residence: Montevideo, Uruguay 
+phone: (+598) 99 33 88 33
+show_phone: false
+residence: Montevideo, Uruguay
 from: Montevideo, Uruguay
 email: dkiedanski@gmail.com
-github: "https://github.com/danski3456"
+github: "https://github.com/kiedanski"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
-website: "https://danski.xyz/"
+website: "https://kiedanski.com/"
+show_references: false
 summary: |
-    I am an independent computer engineer who thrives on working in international environments. As someone passionate about the intersection of data, mathematics, and computer science I am always looking for challenges in which I can put my talents into practice. Furthermore, I have vast experience in the education sector having taught mathematics and computer science at high school and university levels.  
+  I am an independent computer engineer who thrives on working in international environments. 
+  I have led several projects at the intersection of computer science and artificial intelligence at the industry and academy, and I thrive while working in a diverse team.
+  I have a natural talent for switching between technical conversations and high-level overviews with stakeholders and clients.
 education:
-- name: PhD in Networks, Information and Communications 
-  school: Télécom Paris - IP Paris
-  date: "2019 - 2020"
-  description: |
-      ```
-      * Thesis: Mechanisms and architectures to encourage the massive and efficient use of local renewable energy.
-
-      * Advisor: Prof. Daniel Kofman
-
-      ```
-- name: Computer Engineer
-  school: Universidad de la República, Uruguay
-  date: "2013 - 2017"
-  description: |
-      Extensive coursework in computer science and mathematics. Vast experience working in teams with up to ten members, most of which I lead.
+  - name: Postdoctoral Associate
+    school: Yale university, United States
+    date: "Jan 22 - Sept 22"
+    description: |
+      I served as the machine learning expert for several projects in our lab, some of which I led. 
+      Among those projects, I worked with blockchain and DeFi, a network of air quality sensors deployed in Finland, 
+      and evaluated the performance of different data-loading libraries.
+  - name: PhD in Networks, Information and Communications
+    school: Télécom Paris - IP Paris, France
+    date: "2019 - 2020"
+    description: |
+      Mechanisms and architectures to encourage the massive and efficient use of local renewable energy. 
+      During my PhD I used game theory to model energy prosumers that bid for their renewable energy
+      in a local energy market implemented as a double-sided auction. Advisor: Prof. Daniel Kofman.
+  - name: Computer Engineer
+    school: Universidad de la República, Uruguay
+    date: "2013 - 2017"
+    description: |
+      I took extensive coursework in computer science and mathematics.
+      I have vast experience working in teams with up to ten members, most of whom I lead.
 experience:
-- name: Lead Machine Learning Engineer
-  company: Tryolabs
-  date: "2021 - "
-  description: |
-    My position involves working with clients in their AI journey. This involves the initial understanding of business requirements, to the mapping of such requirements into concrete AI projects as well as the development and later deployment of them. I worked in projects across many fields, from transportation to retail and insurance. As part my role, I have had partnerships with consulting companies such as Bain and co.
-- name: Optimization Engineer 
-  company: Centrica Business Solutions Belgium
-  date: "2020"
-  description: |
-          I developed algorithms and models to deploy local flexibility services, mostly enabled by smart batteries and electric vehicles.
-- name: PhD candidate
-  company: Télécom Paris - IP Paris
-  date: "2019 - 2020"
-  description: |
+  - name: CTO
+    company: Lantern Blue, United Kingdom
+    show: true
+    date: "Sept 22 - Jan 22"
+    description: |
+      I joined Cohort 4 to start a venture in climate change.
+      As part of the program, I began Lantern Blue, the data ecosystem for blue carbon projects.
+      I had to network extensively, pitch, build products, and sell during this time.
+      We put our idea on hold after realizing that the market needs to mature. 
+  - name: Lead Machine Learning Engineer, Uruguay
+    company: Tryolabs
+    date: "2021 - 2022"
+    show: true
+    description: |
+      My position involves working with clients in their AI journey,
+      which involves the initial understanding of business requirements,
+      to the mapping of such requirements into concrete AI projects as well as the development and later deployment of them.
+      I worked on projects across many fields, from transportation to retail and insurance.
+      As part of my role, I have had partnerships with consulting companies such as Bain and co. During 2022, my position was part-time.
+  - name: Optimization Engineer
+    company: Centrica Business Solutions Belgium, Belgium
+    date: "2020"
+    show: true
+    description: |
+      I developed algorithms and models to deploy local flexibility services, enabled mainly by intelligent batteries and electric vehicles.
+  - name: PhD candidate
+    company: Télécom Paris - IP Paris
+    date: "2019 - 2020"
+    show: false
+    description: |
       Using tools from auction theory, optimization and game theory, I have shown that cooperative schemes are better suited to implement grid flexibility than their competitive counterpart.
       Moreover, I developed a framework for cooperative investments in energy storage that can increase the capacity of deployed energy storage by 200% with respect to scenarios without cooperation.
       I adapted my research to respond to the needs of our industrial partner, ENEDIS, who needs to position itself in the context of the new Smart Grid architectures.
 
-- name: R&D Engineer
-  company: Télécom Paris - IP Paris
-  date: "2018"
-  description: |
+  - name: R&D Engineer
+    company: Télécom Paris - IP Paris
+    date: "2018"
+    show: true
+    description: |
       My research focused on Local Energy Markets in the context of the energy transition. I extended existing models using auction theory and reinforcement learning.
-- name: Teaching Assistant
-  company: Universidad de la República, Uruguay
-  date: "2015 - 2017"
-  description: |
+  - name: Teaching Assistant
+    company: Universidad de la República, Uruguay
+    date: "2015 - 2017"
+    show: false
+    description: |
       I was in charge of lecturing, planning and designing exams as well as grading them.I designed and deployed automated testing procedures that are still in use today in courses with more than one thousand students.
-- name: Mathematics High School Teacher
-  company: PRE/U and Colegio Nacional José Pedro Varela 
-  date: "2014 - 2015"
-  description: |
-        I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level. 
+  - name: Mathematics High School Teacher
+    company: PRE/U and Colegio Nacional José Pedro Varela
+    date: "2014 - 2015"
+    show: false
+    description: |
+      I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level.
 skills:
-- name: Tech Tools
-  description: Python, Matlab, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, Moodle
-- name: Languages
-  description: English (full working proficiency), Spanish (native), French (basic working proficiency)
-- name: Other
-  description: Game Theory, Optimization, Deep Learning, Graph theory, Machine Learning, Internet Measurements
-
+  - name: Tech Tools
+    description: Python, React, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, Moodle
+  - name: Languages
+    description: English (full working proficiency), Spanish (native), French (basic working proficiency)
+  - name: Other
+    description: Game Theory, Optimization, Deep Learning, Graph theory, Machine Learning, Internet Measurements
