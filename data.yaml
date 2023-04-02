@@ -4,6 +4,8 @@ phone: (+598) 99 33 88 33
 show_phone: false
 residence: Montevideo, Uruguay
 from: Montevideo, Uruguay
+show_residence: false
+show_from: false
 email: dkiedanski@gmail.com
 github: "https://github.com/kiedanski"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
@@ -44,8 +46,8 @@ experience:
       As part of the program, I began Lantern Blue, the data ecosystem for blue carbon projects.
       I had to network extensively, pitch, build products, and sell during this time.
       We put our idea on hold after realizing that the market needs to mature. 
-  - name: Lead Machine Learning Engineer, Uruguay
-    company: Tryolabs
+  - name: Lead Machine Learning Engineer
+    company: Tryolabs, Uruguay
     date: "2021 - 2022"
     show: true
     description: |
@@ -61,7 +63,7 @@ experience:
     description: |
       I developed algorithms and models to deploy local flexibility services, enabled mainly by intelligent batteries and electric vehicles.
   - name: PhD candidate
-    company: Télécom Paris - IP Paris
+    company: Télécom Paris - IP Paris, France
     date: "2019 - 2020"
     show: false
     description: |
@@ -70,7 +72,7 @@ experience:
       I adapted my research to respond to the needs of our industrial partner, ENEDIS, who needs to position itself in the context of the new Smart Grid architectures.
 
   - name: R&D Engineer
-    company: Télécom Paris - IP Paris
+    company: Télécom Paris - IP Paris, France
     date: "2018"
     show: true
     description: |
@@ -89,8 +91,8 @@ experience:
       I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level.
 skills:
   - name: Tech Tools
-    description: Python, React, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, Moodle
+    description: Python, Pytorch, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, React
   - name: Languages
     description: English (full working proficiency), Spanish (native), French (basic working proficiency)
   - name: Other
-    description: Game Theory, Optimization, Deep Learning, Graph theory, Machine Learning, Internet Measurements
+    description: Game Theory, Mathematical Optimization, Graph theory, Internet Measurements

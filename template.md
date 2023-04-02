@@ -29,8 +29,12 @@ $endfor$
 $if(show_phone)$
 <li> <span class="fa-li"> <i class="fa fa-phone"></i></span> $phone$</li>
 $endif$
+$if(show_residence)$
 <li> <span class="fa-li"> <i class="fa fa-map-marker"></i></span> $residence$</li>
+$endif$
+$if(show_from)$
 <li> <span class="fa-li"> <i class="fa fa-home"></i></span> $from$</li>
+$endif$
 </ul>
 
 </div>
