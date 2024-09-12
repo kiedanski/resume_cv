@@ -4,7 +4,7 @@ phone: (+598) 99 33 88 33
 show_phone: false
 residence: Montevideo, Uruguay
 from: Montevideo, Uruguay
-show_residence: false
+show_residence: true
 show_from: false
 email: dkiedanski@gmail.com
 github: "https://github.com/kiedanski"
@@ -12,13 +12,11 @@ scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 website: "https://kiedanski.com/"
 show_references: false
 summary: |
-  I am an independent computer engineer who thrives on working in international environments. 
-  I have led several projects at the intersection of computer science and artificial intelligence at the industry and academy, and I thrive while working in a diverse team.
-  I have a natural talent for switching between technical conversations and high-level overviews with stakeholders and clients.
+  Highly motivated Data Science leader with over 8 years of experience in applying machine learning and AI to complex problems. Proven track record of leading cross-functional teams in developing and deploying innovative solutions, with a special focus on creating platforms and processes to accelerate the development of AI products. Extensive experience in various industries, including climate tech. Strong communication skills with the ability to translate technical concepts for non-technical audiences. Background in computer science, mathematics, and carbon markets positions me to make a significant contribution to Carbon Direct's mission of tackling climate change.
 education:
   - name: Postdoctoral Associate
     school: Yale university, United States
-    date: "Jan 22 - Sept 22"
+    date: "Jan 22' - Sept 22'"
     description: |
       I served as the machine learning expert for several projects in our lab, some of which I led. 
       Among those projects, I worked with blockchain and DeFi, a network of air quality sensors deployed in Finland, 
@@ -37,25 +35,33 @@ education:
       I took extensive coursework in computer science and mathematics.
       I have vast experience working in teams with up to ten members, most of whom I lead.
 experience:
-  - name: CTO
-    company: Lantern Blue, United Kingdom
+  - name: Director, AI for Good
+    company: Tryolabs, Uruguay
+    date: "2023-Present"
     show: true
-    date: "Sept 22 - Jan 22"
     description: |
-      I joined Cohort 4 to start a venture in climate change.
-      As part of the program, I began Lantern Blue, the data ecosystem for blue carbon projects.
-      I had to network extensively, pitch, build products, and sell during this time.
-      We put our idea on hold after realizing that the market needs to mature. 
+      Oversees all projects in the climat change and social good vertical.
+      Managed a team responsible for more than 20 technical proposals.
+      Continuously participate in the company's AI and overall strategy, reporting directly to the CEO.
+      Led the development of a plan to modernize the toolset of 50+ ML engineers using Generative AI, resulting in significant efficiency gains.
+      Designed platforms and procedures to accelerate the development of AI models across organizations.
   - name: Lead Machine Learning Engineer
     company: Tryolabs, Uruguay
     date: "2021 - 2022"
     show: true
     description: |
-      My position involves working with clients in their AI journey,
-      which involves the initial understanding of business requirements,
-      to the mapping of such requirements into concrete AI projects as well as the development and later deployment of them.
-      I worked on projects across many fields, from transportation to retail and insurance.
-      As part of my role, I have had partnerships with consulting companies such as Bain and co. During 2022, my position was part-time.
+        Partnered with clients across various industries (transportation, retail, insurance) to deliver AI-powered solutions from initial needs assessment to deployment.
+        Collaborated with consulting firms like Bain & Company on complex AI projects
+        Developed and deployed ML models using Pytorch, Pandas, Python, XGBoost, among others. During 2022 my role was part-time.
+  - name: CTO
+    company: Lantern Blue, United Kingdom
+    show: true
+    date: "Sept 22' - Dec 22'"
+    description: |
+      I joined Cohort 4 to start a venture in climate change.
+      As part of the program, I began Lantern Blue, the data ecosystem for blue carbon projects.
+      I had to network extensively, pitch, build products, and sell during this time.
+      We put our idea on hold after realizing that the market needs to mature. 
   - name: Optimization Engineer
     company: Centrica Business Solutions Belgium, Belgium
     date: "2020"
@@ -91,8 +97,8 @@ experience:
       I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level.
 skills:
   - name: Tech Tools
-    description: Python, Pytorch, Bash, Docker, Linux, Javascript, CPLEX, Latex, SQL, Git, React
+    description: LLMs, GCP (BigQuery, Vertex), Python, Pytorch, Bash, Docker, Linux, SQL, Git
   - name: Languages
     description: English (full working proficiency), Spanish (native), French (basic working proficiency)
   - name: Other
-    description: Game Theory, Mathematical Optimization, Graph theory, Internet Measurements
+    description: Game Theory, Mathematical Optimization, Carbon Markets, Climate Change inner Workings 

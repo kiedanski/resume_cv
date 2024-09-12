@@ -35,6 +35,7 @@ $endif$
 $if(show_from)$
 <li> <span class="fa-li"> <i class="fa fa-home"></i></span> $from$</li>
 $endif$
+<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="$website$"> $website$ </a></li>
 </ul>
 
 </div>
@@ -43,16 +44,15 @@ $endif$
 <ul class="fa-ul">
 <li> <span class="fa-li"> <i class="fa fa-envelope"></i></span> $email$</li>
 <li> <span class="fa-li"> <i class="fa fa-github"></i></span> <a href="$github$"> $github$ </a> </li>
-<li> <span class="fa-li"> <i class="fa fa-globe"></i></span> <a href="$website$"> $website$ </a></li>
 </ul>
 </div>
 
 </div>
 
 
-## Summary
+<!-- ## Summary -->
 
-$summary$
+<!-- $summary$ -->
 
 ## Profesional Experience
 
