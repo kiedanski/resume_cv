@@ -50,9 +50,9 @@ $endif$
 </div>
 
 
-<!-- ## Summary -->
+## Summary
 
-<!-- $summary$ -->
+$summary$
 
 ## Profesional Experience
 

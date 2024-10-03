@@ -6,13 +6,13 @@ residence: Montevideo, Uruguay
 from: Montevideo, Uruguay
 show_residence: true
 show_from: false
-email: dkiedanski@gmail.com
+email: diego@kiedanski.com 
 github: "https://github.com/kiedanski"
 scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
 website: "https://kiedanski.com/"
 show_references: false
 summary: |
-  Highly motivated Data Science leader with over 8 years of experience in applying machine learning and AI to complex problems. Proven track record of leading cross-functional teams in developing and deploying innovative solutions, with a special focus on creating platforms and processes to accelerate the development of AI products. Extensive experience in various industries, including climate tech. Strong communication skills with the ability to translate technical concepts for non-technical audiences. Background in computer science, mathematics, and carbon markets positions me to make a significant contribution to Carbon Direct's mission of tackling climate change.
+  Highly motivated Data Science and AI leader with over 8 years of experience designing, testing, and implementing machine learning and AI solutions for complex problems, including climate and environment data analysis. Proven track record of leading cross-functional teams in developing and deploying innovative solutions, with a special focus on creating platforms and processes to accelerate the development of AI products. Extensive experience in various industries, including climate tech. Excellent coordination and communication skills with the ability to effectively communicate complex AI and climate concepts to both technical and non-technical stakeholders. Background in computer science, mathematics, and carbon markets positions me to significantly contribute to Carbon Direct's mission of tackling climate change. Currently co-leading the organization of Climate Change AI's workshop at the flagship AI conference NeurIPS.
 education:
   - name: Postdoctoral Associate
     school: Yale university, United States
@@ -44,7 +44,7 @@ experience:
       Managed a team responsible for more than 20 technical proposals.
       Continuously participate in the company's AI and overall strategy, reporting directly to the CEO.
       Led the development of a plan to modernize the toolset of 50+ ML engineers using Generative AI, resulting in significant efficiency gains.
-      Designed platforms and procedures to accelerate the development of AI models across organizations.
+      Designed platforms and procedures to accelerate the development and deployment of AI models across organizations, including feasibility studies, proof-of-concept development, and prototype testing.
   - name: Lead Machine Learning Engineer
     company: Tryolabs, Uruguay
     date: "2021 - 2022"
@@ -52,7 +52,7 @@ experience:
     description: |
         Partnered with clients across various industries (transportation, retail, insurance) to deliver AI-powered solutions from initial needs assessment to deployment.
         Collaborated with consulting firms like Bain & Company on complex AI projects
-        Developed and deployed ML models using Pytorch, Pandas, Python, XGBoost, among others. During 2022 my role was part-time.
+        Developed and deployed ML models using Pytorch, Pandas, Python, XGBoost, among others, with a focus on big data environments and AI applications. Conducted risk assessments and implemented mitigation strategies for AI solutions.
   - name: CTO
     company: Lantern Blue, United Kingdom
     show: true
@@ -76,17 +76,22 @@ experience:
       Using tools from auction theory, optimization and game theory, I have shown that cooperative schemes are better suited to implement grid flexibility than their competitive counterpart.
       Moreover, I developed a framework for cooperative investments in energy storage that can increase the capacity of deployed energy storage by 200% with respect to scenarios without cooperation.
       I adapted my research to respond to the needs of our industrial partner, ENEDIS, who needs to position itself in the context of the new Smart Grid architectures.
-
   - name: R&D Engineer
     company: Télécom Paris - IP Paris, France
     date: "2018"
     show: true
     description: |
       My research focused on Local Energy Markets in the context of the energy transition. I extended existing models using auction theory and reinforcement learning.
+  - name: Data Engineer 
+    company: Universidad de la República, Uruguay
+    date: "2016 - 2017"
+    show: true
+    description: |
+      Built data pipelines to automate the processing and analysis of large datasets using Pentho and Python. Worked on improving data quality and accessibility for research and administrative purposes, demonstrating experience in data engineering and pipeline optimization.
   - name: Teaching Assistant
     company: Universidad de la República, Uruguay
     date: "2015 - 2017"
-    show: false
+    show: true
     description: |
       I was in charge of lecturing, planning and designing exams as well as grading them.I designed and deployed automated testing procedures that are still in use today in courses with more than one thousand students.
   - name: Mathematics High School Teacher
@@ -97,8 +102,8 @@ experience:
       I was in charge of my own groups and tasked with teaching, planning, preparing tests and interacting with parents among other responsibilities. I thought pre calculus level.
 skills:
   - name: Tech Tools
-    description: LLMs, GCP (BigQuery, Vertex), Python, Pytorch, Bash, Docker, Linux, SQL, Git
+    description: LLMs, GCP (BigQuery, Vertex), Python, R, Pytorch, Bash, Docker, Linux, SQL, Git, ML/LLM models, GenAI, NLP solutions
   - name: Languages
     description: English (full working proficiency), Spanish (native), French (basic working proficiency)
   - name: Other
-    description: Game Theory, Mathematical Optimization, Carbon Markets, Climate Change inner Workings 
+    description: Game Theory, Mathematical Optimization, Carbon Markets, Climate Change inner Workings, Sustainability and Climate Action.

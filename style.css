@@ -47,7 +47,7 @@ h1:hover {
 h2 {
     color: #0492c2;
     font-size: 16px;
-    margin: 0px;
+    margin: 4px;
 }
 /* There is a bar just before each category */
 h2:before {
