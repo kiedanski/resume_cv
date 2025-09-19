@@ -1,0 +1,148 @@
+title: Diego Kiedanski
+header-includes: '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
+phone: (+598) 99 33 88 33
+show_phone: false
+residence: Montevideo, Uruguay
+from: Montevideo, Uruguay
+show_residence: true
+show_from: false
+email: diego@kiedanski.com 
+github: "https://github.com/kiedanski"
+scholar: "https://scholar.google.com/citations?user=L1Qe4zgAAAAJ&hl=en"
+website: "https://kiedanski.com/"
+show_references: false
+summary: |
+  Research Software Engineer and AI leader with 8+ years of experience developing large-scale machine learning and scientific computing solutions for climate and environmental challenges. Core volunteer at Climate Change AI and co-founder of ClimateDL international research collaboration focused on extreme temperature forecasting. Founding AI Engineer with expertise in building reproducible, performant scientific codebases, orchestrating cloud/HPC workflows, and leading open-source initiatives. Published researcher in data-loader performance optimization, climate modeling, and distributed systems. Passionate about leveraging rigorous software engineering and AI to address urgent climate challenges through open science approaches.
+education:
+  - name: Postdoctoral Associate
+    school: Yale university, United States
+    date: "Jan 22' - Sept 22'"
+    description: |
+      Served as machine learning expert and technical lead for computational research projects involving large-scale data analysis and performance optimization. 
+      Conducted comparative analysis of data-loading libraries for distributed systems, leading to publication in IEEE BigData 2024.
+      Developed and optimized computational frameworks for multi-modal sensor networks and blockchain systems.
+  - name: PhD in Networks, Information and Communications
+    school: Télécom Paris - IP Paris, France
+    date: "2019 - 2020"
+    description: |
+      Developed computational frameworks for renewable energy optimization using game theory, auction mechanisms, and distributed algorithms. 
+      Collaborated with ENEDIS (French grid operator) on large-scale grid data analysis, processing massive datasets using HDF5 and scientific Python libraries.
+      Created reproducible research pipelines and optimization models demonstrating 200% improvements in energy storage deployment efficiency.
+      Advisor: Prof. Daniel Kofman.
+  - name: Computer Engineer
+    school: Universidad de la República, Uruguay
+    date: "2013 - 2017"
+    description: |
+      Extensive coursework in computer science, mathematics, and high-performance computing including MPI programming for distributed graph algorithms (cage graph calculations).
+      Led teams of up to ten members on complex computational projects. Developed network simulation frameworks integrating Python with C++ components.
+experience:
+  - name: Founding AI Engineer, Customer Facing
+    company: LlamaIndex (Remote, SF Startup)
+    date: "April 2025 - Present"
+    show: true
+    description: |
+      Co-founded and lead customer-facing AI engineering function, helping enterprises leverage document intelligence using LlamaCloud at massive scale.
+      Design and deploy large-scale agentic AI workflows for enterprise customers, managing data pipelines processing 10,000+ customers with 100+ files each.
+      Lead BYOC (Bring Your Own Cloud) deployments orchestrated on Kubernetes, ensuring scalable and performant AI model serving.
+      Drive testing and optimization of the LlamaIndex open-source framework, pushing performance boundaries and reliability for production use cases.
+  - name: AI Consultant - Solutions for Climate and Environment
+    company: UNICEF
+    date: "Nov 2024 - Present"
+    show: true
+    description: |
+      Lead development of open-source coding agents for geospatial analysis supporting climate and environmental monitoring initiatives.
+      Design AI-powered solutions for climate data processing and environmental impact assessment in developing countries.
+      Collaborate with international development teams to create scalable, reproducible AI frameworks for environmental research.
+  - name: Director, AI for Good
+    company: Tryolabs, Uruguay
+    date: "2023 - April 2025"
+    show: true
+    description: |
+      Oversaw all climate change and social impact AI projects, managing teams responsible for 20+ technical proposals with multi-million dollar impact.
+      Led design and implementation of MLOps platforms for large-scale scientific data processing across multiple climate tech organizations.
+      Orchestrated high-impact collaborations including joint solar energy prediction research and open-source environmental AI tools.
+      Spearheaded company-wide adoption of Generative AI toolsets for 50+ ML engineers, resulting in significant productivity improvements.
+      Reported directly to CEO on AI strategy and climate tech initiatives.
+  - name: Lead Machine Learning Engineer & Assistant Professor (Part-time)
+    company: Tryolabs & Universidad de la República, Uruguay
+    date: "2021 - 2022"
+    show: true
+    description: |
+        Simultaneously managed full-time industry role delivering end-to-end AI solutions and part-time academic appointment conducting climate research.
+        Co-founded ClimateDL, international research collaboration (Argentina, Chile, France, Uruguay) focused on deep learning for seasonal temperature forecasting and extreme weather prediction.
+        Delivered AI solutions across transportation, retail, and insurance industries while publishing research on climate modeling and AutoML.
+        Collaborated with consulting firms like Bain & Company on complex, data-intensive AI projects requiring robust, scalable architectures.
+        Developed and optimized ML models using PyTorch, Pandas, XGBoost in big data environments with emphasis on reproducible research practices.
+  - name: CTO
+    company: Lantern Blue, United Kingdom
+    show: true
+    date: "Sept 22' - Dec 22'"
+    description: |
+      Founded and led technical development of data ecosystem for blue carbon projects as part of climate tech accelerator Cohort 4.
+      Built MVP data infrastructure platforms for carbon market data processing and environmental impact measurement.
+      Conducted extensive stakeholder research and developed go-to-market strategies for climate data solutions in emerging carbon markets.
+  - name: Optimization Engineer
+    company: Centrica Business Solutions Belgium, Belgium
+    date: "2020"
+    show: true
+    description: |
+      Developed optimization algorithms and computational models for deploying distributed energy flexibility services using intelligent battery storage and electric vehicle integration.
+      Built scalable frameworks for real-time energy market optimization and grid flexibility management with performance optimization for production deployment.
+  - name: R&D Engineer
+    company: Télécom Paris - IP Paris, France
+    date: "2018"
+    show: true
+    description: |
+      Conducted computational research on Local Energy Markets for the energy transition, extending existing models using auction theory and reinforcement learning.
+      Developed and validated algorithms for distributed energy trading systems with focus on reproducibility and performance optimization.
+  - name: Data Engineer 
+    company: Universidad de la República, Uruguay
+    date: "2016 - 2017"
+    show: true
+    description: |
+      Built and maintained large-scale data pipelines for processing and analyzing educational datasets using Pentaho and Python.
+      Designed automated ETL processes and implemented data quality frameworks serving thousands of users.
+      Created reproducible data processing workflows that improved data accessibility and research reproducibility across the institution.
+  - name: Teaching Assistant
+    company: Universidad de la República, Uruguay
+    date: "2015 - 2017"
+    show: true
+    description: |
+      Designed and implemented automated testing systems for programming courses with 1000+ students, creating scalable educational infrastructure still in use today.
+      Developed coursework, managed grading pipelines, and created reproducible evaluation frameworks for large-scale computer science education.
+publications:
+  - title: "An overview of the data-loader landscape: Comparative performance analysis"
+    authors: "I Ofeídis, D Kiedanski, L Tassiulas"
+    venue: "2024 IEEE International Conference on Big Data (BigData)"
+    year: 2024
+    description: "Comprehensive benchmarking of data loading libraries for distributed computing - directly relevant to I/O optimization in scientific computing"
+  - title: "PyMarket - A simple library for simulating markets in Python"
+    authors: "D Kiedanski, D Kofman, J Horta"
+    venue: "The Journal of Open Source Software"
+    year: 2020
+    description: "Open-source Python library for market simulation - demonstrates software engineering and reproducible research principles"
+  - title: "Seasonal average temperature forecast with the AutoGluonTS modern autoML tool"
+    authors: "D Kiedanski, P Rodríguez-Bocca, G Rubino"
+    venue: "Joint European Conference on Machine Learning and Knowledge Discovery"
+    year: 2023
+    description: "Climate modeling work from ClimateDL collaboration - shows expertise in seasonal forecasting for extreme weather events"
+  - title: "Bias in deep neural networks in land use characterization for international development"
+    authors: "DH Kim, G López, D Kiedanski, I Maduako, B Rios, A Descoins"
+    venue: "Remote Sensing 13 (15), 2908"
+    year: 2021
+    description: "Environmental ML applications for sustainable development - demonstrates domain expertise in climate/environmental data analysis"
+skills:
+  - name: Scientific Computing & HPC
+    description: Scientific Python (NumPy, SciPy, Pandas), HDF5, NetCDF, MPI, distributed computing, I/O optimization, memory management, C++ integration
+  - name: Cloud & DevOps  
+    description: Kubernetes, Docker, GCP (BigQuery, Vertex AI), MLOps platforms, CI/CD pipelines, GitHub Actions, infrastructure-as-code
+  - name: AI/ML Frameworks
+    description: LlamaIndex, PyTorch, XGBoost, AutoML, LLMs, GenAI, agentic workflows, model optimization, performance tuning
+  - name: Data Engineering
+    description: Large-scale data pipelines, ETL processes, data quality frameworks, reproducible research workflows, semantic versioning, Zarr
+  - name: Open Source & Community
+    description: Python package development (PyPI), open-source maintenance, technical documentation, community building, workshop organization
+  - name: Languages
+    description: English (full working proficiency), Spanish (native), French (basic working proficiency)  
+  - name: Domain Expertise
+    description: Climate Change AI, Climate Modeling, Extreme Weather Forecasting, Carbon Markets, Game Theory, Mathematical Optimization, Energy Systems
